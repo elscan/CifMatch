@@ -4,7 +4,7 @@ Given a list of reflections from your PXRD scan and the wavelength, find the CIF
 There should just be one file, _FindBestMatchToReflectionList.py
 The instructions are written in _FindBestMatchToReflectionList.py and are copied below
 
-\#----- Instructions -----#
+\#----- Instructions -----# \\
 \# Above is a list, tThets
 \# For your diffraction pattern, enter into tThets a list of 2-theta values, in degrees, where there are reflections
 \# Above is a variable, wavelength
